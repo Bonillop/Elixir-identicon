@@ -23,4 +23,4 @@ erl_crash.dump
 identicon-*.tar
 
 # Ignore compiled files
-./.elixir_ls
+/.elixir_ls
